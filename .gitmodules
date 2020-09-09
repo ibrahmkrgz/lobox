@@ -1,0 +1,9 @@
+[submodule "packages/lobox-api"]
+	path = packages/lobox-api
+	url = https://github.com/ibrahmkrgz/lobox-api.git
+[submodule "packages/lobox-common"]
+	path = packages/lobox-common
+	url = https://github.com/ibrahmkrgz/lobox-common.git
+[submodule "packages/lobox-example"]
+	path = packages/lobox-example
+	url = https://github.com/ibrahmkrgz/lobox-example.git

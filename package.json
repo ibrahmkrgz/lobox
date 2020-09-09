@@ -1,0 +1,27 @@
+{
+  "name": "@lobox/app",
+  "version": "1.0.0",
+  "description": "lobox app",
+  "author": "İbrahim Karagöz <ibrahm.krgz@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "lobox",
+    "app"
+  ],
+  "bugs": {
+    "url": "https://github.com/ibrahmkrgz/lobox/issues"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahmkrgz/lobox.git"
+  },
+  "homepage": "https://github.com/ibrahmkrgz/lobox",
+  "scripts": {
+    "install-packages": "lerna exec -- yarn",
+    "run-packages": "lerna exec -- yarn start"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
